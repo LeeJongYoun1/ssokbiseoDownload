@@ -6,7 +6,7 @@
 
 **[ssokbiseo-1.0.18.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.18.apk)** (모든 휴대폰용, 약 36MB)
 
-- SHA-256: `bf9acc97a8c276b6dc72bb44bbeb24ad5901af62baf4e8019efff0a16ecd54ad`
+- SHA-256: `2e70d5d77e4a32cd8e78f0484e2681e8e5b31c397dbf50d658ba45126d9fbd9d`
 
 처음 쓰신다면 설치 설명서를 먼저 보세요.
 - **[쏙비서 설치/업데이트 방법](https://leejongyoun1.github.io/ssokbiseoDownload/install.html)**

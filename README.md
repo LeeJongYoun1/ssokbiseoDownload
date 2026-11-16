@@ -2,14 +2,18 @@
 
 아침에 한 번 열면 **날씨·출근 시간·오늘 일정·뉴스·소식**을 한 화면에 모아 보여 주는 안드로이드 앱입니다.
 
-## 최신 버전: 1.0.19
+## 최신 버전: 1.0.20
 
-**[ssokbiseo-1.0.19.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.19.apk)** (모든 휴대폰용, 약 36MB)
+**[ssokbiseo-1.0.20.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.20.apk)** (모든 휴대폰용, 약 36MB)
 
-- SHA-256: `a834021d03a77d3dec61c7ae707928c79addf8735137268d427857ee6c573539`
+- SHA-256: `b71e523d59ca3cc8dfab8a25b879878c31a883c974a1c8020267487d62ffde8e`
 
 처음 쓰신다면 설치 설명서를 먼저 보세요.
 - **[쏙비서 설치/업데이트 방법](https://leejongyoun1.github.io/ssokbiseoDownload/install.html)**
+
+**바뀐 점 (1.0.20)**
+- **현재 위치가 더 정확해졌습니다**: 위치 권한을 물으면 **"정확한 위치"를 켠 채로** 허용해 주세요. 대략적인 위치만 허용했으면 출근 시간 아래 안내를 눌러 바꿀 수 있습니다.
+- "오늘의 좋은 글"이 1분 정도 읽을 분량으로 길어집니다(다음 날 아침부터).
 
 **바뀐 점 (1.0.19)**
 - **관심 키워드**: 설정에 "전기차"처럼 키워드를 넣으면 그 키워드 뉴스가 뉴스 맨 앞 칸에 나오고, 커뮤니티·세무 글 중 키워드가 든 글이 위로 올라옵니다.

@@ -2,14 +2,17 @@
 
 아침에 한 번 열면 **날씨·출근 시간·오늘 일정·뉴스·소식**을 한 화면에 모아 보여 주는 안드로이드 앱입니다.
 
-## 최신 버전: 1.0.20
+## 최신 버전: 1.0.21
 
-**[ssokbiseo-1.0.20.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.20.apk)** (모든 휴대폰용, 약 36MB)
+**[ssokbiseo-1.0.21.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.21.apk)** (모든 휴대폰용, 약 36MB)
 
-- SHA-256: `b71e523d59ca3cc8dfab8a25b879878c31a883c974a1c8020267487d62ffde8e`
+- SHA-256: `268bf17c8a4b9322346d61ff64937df0d4f6d7aeb2f9753a4a06db16a2bb9afc`
 
 처음 쓰신다면 설치 설명서를 먼저 보세요.
 - **[쏙비서 설치/업데이트 방법](https://leejongyoun1.github.io/ssokbiseoDownload/install.html)**
+
+**바뀐 점 (1.0.21)**
+- **새 앱 아이콘**: 떠오르는 해와 "쏙비서" 글자. 홈 화면에서 아이콘 모양이 어떻게 바뀌어도 글자가 잘리지 않습니다. (업데이트 뒤 홈 화면 아이콘이 바로 안 바뀌면 앱을 지웠다 다시 추가하거나 휴대폰을 한 번 다시 켜 보세요)
 
 **바뀐 점 (1.0.20)**
 - **현재 위치가 더 정확해졌습니다**: 위치 권한을 물으면 **"정확한 위치"를 켠 채로** 허용해 주세요. 대략적인 위치만 허용했으면 출근 시간 아래 안내를 눌러 바꿀 수 있습니다.

@@ -2,14 +2,17 @@
 
 아침에 한 번 열면 **날씨·출근 시간·오늘 일정·뉴스·소식**을 한 화면에 모아 보여 주는 안드로이드 앱입니다.
 
-## 최신 버전: 1.0.25
+## 최신 버전: 1.0.26
 
-**[ssokbiseo-1.0.25.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.25.apk)** (모든 휴대폰용, 약 36MB)
+**[ssokbiseo-1.0.26.apk 내려받기](https://github.com/LeeJongYoun1/ssokbiseoDownload/raw/main/ssokbiseo-1.0.26.apk)** (모든 휴대폰용, 약 36MB)
 
-- SHA-256: `c94f0288408e8a5998c6705a7472215d8abc4447883397ccbf2837ed0a5d74e2`
+- SHA-256: `d019268b2055030ba4161d2abc01125eb78a344b55dc35dfc86279c611c90936`
 
 처음 쓰신다면 설치 설명서를 먼저 보세요.
 - **[쏙비서 설치/업데이트 방법](https://leejongyoun1.github.io/ssokbiseoDownload/install.html)**
+
+**바뀐 점 (1.0.26)**
+- **커뮤니티에 클리앙 추가**: 클리앙 새로운소식의 최근 24시간 글을 조회 수 높은 순으로 보여 줍니다. 설정의 커뮤니티에서 켜고 끌 수 있습니다. (다음 날 아침 갱신부터 나옵니다)
 
 **바뀐 점 (1.0.25)**
 - "오늘의 좋은 글" 아래에 있던 안내 줄(기분·AI 작성·설정 안내)을 없애 글만 보입니다. 기분은 그대로 설정에서 바꿉니다.
